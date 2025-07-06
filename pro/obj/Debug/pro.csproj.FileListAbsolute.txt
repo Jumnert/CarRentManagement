@@ -1,0 +1,77 @@
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\pro.exe.config
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\pro.exe
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\pro.pdb
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\MaterialSkin.dll
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.Form1.resources
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.Properties.Resources.resources
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.csproj.Up2Date
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.exe
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.pdb
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\Guna.UI2.dll
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\pro.exe.manifest
+D:\VS Studio\c#\C#\pro\pro\bin\Debug\pro.application
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.exe.manifest
+D:\VS Studio\c#\C#\pro\pro\obj\Debug\pro.application
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\pro.exe.config
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\pro.exe.manifest
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\pro.application
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\pro.exe
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\pro.pdb
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\Guna.UI2.dll
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\MaterialSkin.dll
+D:\VS Studio\c#\C#\lol\pro\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.Form1.resources
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.Properties.Resources.resources
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.exe.manifest
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.application
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.csproj.Up2Date
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.exe
+D:\VS Studio\c#\C#\lol\pro\obj\Debug\pro.pdb
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\pro.exe.config
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\pro.exe.manifest
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\pro.application
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\pro.exe
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\pro.pdb
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\Guna.UI2.dll
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\bin\Debug\MaterialSkin.dll
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.Form1.resources
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.Properties.Resources.resources
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.exe.manifest
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.application
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.csproj.Up2Date
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.exe
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.pdb
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.createAcc.resources
+D:\User\Documents\Acleda\Acleda Year1 sermister2\C#\Winform2\New folder\pro\obj\Debug\pro.LabelCreateAcc.resources
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\pro.exe.config
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\pro.exe.manifest
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\pro.application
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\pro.exe
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\pro.pdb
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\Guna.UI2.dll
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\MaterialSkin.dll
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.createAcc.resources
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.Form1.resources
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.LabelCreateAcc.resources
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.Properties.Resources.resources
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.csproj.GenerateResource.cache
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.exe.manifest
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.application
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.csproj.Up2Date
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.exe
+C:\Users\Jumnert\Downloads\Telegram Desktop\Car\pro\obj\Debug\pro.pdb
