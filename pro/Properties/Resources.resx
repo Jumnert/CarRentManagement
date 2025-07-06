@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ferrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ferrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lexus-LX-570-PNG-Photos1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lexus-LX-570-PNG-Photos1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="man" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\man.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maddie_creates-pfp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maddie_creates-pfp.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2025-ford-maverick-" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2025-ford-maverick-.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="right-arrows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\right-arrows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bin (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bin (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="receipt1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\receipt1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="morning car" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\morning car.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="roll roy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\roll roy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nissan GT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nissan GT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Super-2020" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Super-20201.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="74977a6fefb2faff4758dcdc5ebf80c3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\74977a6fefb2faff4758dcdc5ebf80c3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cute-animated-cat-tutorial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cute-animated-cat-tutorial.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fast-forward" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fast-forward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lexus-LX-570-PNG-Photos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lexus-LX-570-PNG-Photos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="morning car1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\morning car1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-pickup-truck-isolated" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-pickup-truck-isolated.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="honda civic type r" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\honda civic type r.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rimac Nevera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Rimac Nevera.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chevy trx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chevy trx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lion-Logo-No-Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lion-Logo-No-Background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2025-supra-3.0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2025-supra-3.01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="receipt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\receipt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forthing evo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forthing evo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="notification" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\notification.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maddie_creates-gif" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maddie_creates-gif.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ebc6ae821df4a6af9509267aef6de1ed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ebc6ae821df4a6af9509267aef6de1ed.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lambo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lambo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ssangyung stavic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ssangyung stavic.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="002_516_1599889371158_000-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\002_516_1599889371158_000-removebg-preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngimg.com_-_ferrari_PNG102818-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngimg.com_-_ferrari_PNG102818-removebg-preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sangyung" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sangyung.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pickup-Truck-Hennessey-Mammoth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pickup-Truck-Hennessey-Mammoth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sangyung1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sangyung1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="google-drive-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\google-drive-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forthing evo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forthing evo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lenux ES 300h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lenux ES 300h.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maserati MC20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maserati MC20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8029b6_4ee18e8fcfb24a1996241d4972ed9b2b~mv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8029b6_4ee18e8fcfb24a1996241d4972ed9b2b~mv2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car42.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car 11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2024-nissan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2024-nissan1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bmw-3-series-ice-lci-modelfinder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bmw-3-series-ice-lci-modelfinder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2024 prius prime (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2024 prius prime (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="toppng.com-orange-nissan-gt-r-nismo-edition-2100x1023" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\toppng.com-orange-nissan-gt-r-nismo-edition-2100x1023.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chevrolet Corvette Z06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chevrolet Corvette Z06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6653318bb022e7ca9339775eebd6987b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6653318bb022e7ca9339775eebd6987b.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sign-out-option" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sign-out-option.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="delete (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="car6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\car61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chevy trx1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chevy trx1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
